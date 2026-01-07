@@ -1,0 +1,3 @@
+D:/Test/build/CMakeFiles/MyApp.dir
+D:/Test/build/CMakeFiles/ALL_BUILD.dir
+D:/Test/build/CMakeFiles/ZERO_CHECK.dir
